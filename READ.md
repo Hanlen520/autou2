@@ -72,7 +72,7 @@ adb push ~/Desktop/autou2/logger.py /storage/emulated/0/qpython
 
 
 
-#在手机上运行脚本
+# 在手机上运行脚本
 1.打开QPython,点击执行脚本
 
 2.脚本前置条件：微信需要登录 -> 在分享之前需要清除微信数据
@@ -86,7 +86,7 @@ adb push ~/Desktop/autou2/logger.py /storage/emulated/0/qpython
 (3)验证页面能正常打开/验证打开的页面的标题是之前分享的文章
 
 
-#定位方式
+# 定位方式
 
 ## ResourceId定位
 d(resourceId="com.smartisanos.clock:id/text_stopwatch").click()
@@ -123,6 +123,7 @@ https://convertio.co/zh/mp4-gif/  mp4 to git
 效果在根目录下demo.mp4查看效果展示.
 
 # 参考文档
+
 ### uiautomator官方文档,可以测试android原生app<br>
 https://github.com/openatx/uiautomator2
 

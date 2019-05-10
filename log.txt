@@ -1,0 +1,189 @@
+2018-03-08 18:56:42,955 - logger - INFO - app启动
+2018-03-08 18:57:10,020 - logger - INFO - app启动
+2018-03-08 18:57:14,939 - logger - INFO - 点击听书
+2018-03-08 18:57:14,939 - logger - INFO - 点击听书
+2018-03-08 18:57:16,710 - logger - INFO - 无码：艺术大师的秘密生活1
+2018-03-08 18:57:16,710 - logger - INFO - 无码：艺术大师的秘密生活1
+2018-03-08 18:57:16,710 - logger - INFO - 无码：艺术大师的秘密生活1
+2018-03-08 19:02:09,020 - __main__ - INFO - aaa
+2018-03-08 19:02:14,292 - __main__ - INFO - aaa
+2018-03-08 19:03:22,400 - logger - INFO - app启动
+2018-03-08 19:03:26,911 - logger - INFO - 点击听书
+2018-03-08 19:03:26,911 - logger - INFO - 点击听书
+2018-03-08 19:03:28,661 - logger - INFO - 无码：艺术大师的秘密生活1
+2018-03-08 19:03:28,661 - logger - INFO - 无码：艺术大师的秘密生活1
+2018-03-08 19:03:28,661 - logger - INFO - 无码：艺术大师的秘密生活1
+2018-03-08 19:05:29,082 - logger - INFO - app启动
+2018-03-08 19:05:33,720 - logger - INFO - 点击听书
+2018-03-08 19:05:33,720 - logger - INFO - 点击听书
+2018-03-08 19:05:35,343 - logger - INFO - 无码：艺术大师的秘密生活1
+2018-03-08 19:05:35,343 - logger - INFO - 无码：艺术大师的秘密生活1
+2018-03-08 19:05:35,343 - logger - INFO - 无码：艺术大师的秘密生活1
+2018-03-08 19:09:15,461 - logger - INFO - app启动
+2018-03-08 19:09:20,031 - logger - INFO - 点击听书
+2018-03-08 19:09:20,031 - logger - INFO - 点击听书
+2018-03-08 19:09:21,741 - logger - INFO - 无码：艺术大师的秘密生活1
+2018-03-08 19:09:21,741 - logger - INFO - 无码：艺术大师的秘密生活1
+2018-03-08 19:09:21,741 - logger - INFO - 无码：艺术大师的秘密生活1
+2018-03-08 19:19:36,254 - logger - INFO - app启动
+2018-03-08 19:19:40,942 - logger - INFO - 点击听书
+2018-03-08 19:19:40,942 - logger - INFO - 点击听书
+2018-03-08 19:19:42,864 - logger - INFO - 无码：艺术大师的秘密生活1
+2018-03-08 19:19:42,864 - logger - INFO - 无码：艺术大师的秘密生活1
+2018-03-08 19:19:42,864 - logger - INFO - 无码：艺术大师的秘密生活1
+2018-03-08 19:27:36,865 - logger - INFO - app启动
+2018-03-08 19:27:41,651 - logger - INFO - 点击听书
+2018-03-08 19:27:41,651 - logger - INFO - 点击听书
+2018-03-08 19:27:43,372 - logger - INFO - 无码：艺术大师的秘密生活1
+2018-03-08 19:27:43,372 - logger - INFO - 无码：艺术大师的秘密生活1
+2018-03-08 19:27:43,372 - logger - INFO - 无码：艺术大师的秘密生活1
+2018-03-08 19:31:19,062 - logger - INFO - app启动
+2018-03-08 19:31:23,520 - logger - INFO - 点击听书
+2018-03-08 19:31:23,520 - logger - INFO - 点击听书
+2018-03-08 19:31:25,331 - logger - INFO - 无码：艺术大师的秘密生活1
+2018-03-08 19:31:25,331 - logger - INFO - 无码：艺术大师的秘密生活1
+2018-03-08 19:31:25,331 - logger - INFO - 无码：艺术大师的秘密生活1
+2018-03-08 19:32:07,828 - logger - INFO - app启动
+2018-03-08 19:32:12,571 - logger - INFO - 点击听书
+2018-03-08 19:32:12,571 - logger - INFO - 点击听书
+2018-03-08 19:32:14,351 - logger - INFO - 无码：艺术大师的秘密生活1
+2018-03-08 19:32:14,351 - logger - INFO - 无码：艺术大师的秘密生活1
+2018-03-08 19:32:14,351 - logger - INFO - 无码：艺术大师的秘密生活1
+2018-03-09 10:11:17,319 - logger - INFO - app启动
+2018-03-09 10:11:22,339 - logger - INFO - 点击听书
+2018-03-09 10:11:22,339 - logger - INFO - 点击听书
+2018-03-09 10:11:24,259 - logger - INFO - 无码：艺术大师的秘密生活1
+2018-03-09 10:11:24,259 - logger - INFO - 无码：艺术大师的秘密生活1
+2018-03-09 10:11:24,259 - logger - INFO - 无码：艺术大师的秘密生活1
+2018-03-09 11:15:13,263 - logger - INFO - app启动
+2018-03-09 11:15:41,394 - logger - INFO - app启动
+2018-03-09 11:15:45,946 - logger - INFO - 点击听书
+2018-03-09 11:15:45,946 - logger - INFO - 点击听书
+2018-03-09 11:15:47,908 - logger - INFO - 无码：艺术大师的秘密生活1
+2018-03-09 11:15:47,908 - logger - INFO - 无码：艺术大师的秘密生活1
+2018-03-09 11:15:47,908 - logger - INFO - 无码：艺术大师的秘密生活1
+2018-03-09 11:17:41,230 - logger - INFO - app启动
+2018-03-09 11:17:45,785 - logger - INFO - 点击听书
+2018-03-09 11:17:45,785 - logger - INFO - 点击听书
+2018-03-09 11:17:47,531 - logger - INFO - 无码：艺术大师的秘密生活1
+2018-03-09 11:17:47,531 - logger - INFO - 无码：艺术大师的秘密生活1
+2018-03-09 11:17:47,531 - logger - INFO - 无码：艺术大师的秘密生活1
+2018-03-09 11:23:21,399 - logger - INFO - app启动
+2018-03-09 11:23:26,227 - logger - INFO - 点击听书
+2018-03-09 11:23:26,227 - logger - INFO - 点击听书
+2018-03-09 11:23:28,012 - logger - INFO - 无码：艺术大师的秘密生活1
+2018-03-09 11:23:28,012 - logger - INFO - 无码：艺术大师的秘密生活1
+2018-03-09 11:23:28,012 - logger - INFO - 无码：艺术大师的秘密生活1
+2018-03-09 11:23:50,078 - logger - INFO - 获取title:得到｜无码：艺术大师的秘密生活1
+2018-03-09 11:23:50,078 - logger - INFO - 获取title:得到｜无码：艺术大师的秘密生活1
+2018-03-09 11:23:50,078 - logger - INFO - 获取title:得到｜无码：艺术大师的秘密生活1
+2018-03-09 11:23:50,078 - logger - INFO - 获取title:得到｜无码：艺术大师的秘密生活1
+2018-03-09 11:42:13,053 - logger - INFO - app启动
+2018-03-09 11:42:13,148 - logger - INFO - app启动
+2018-03-09 11:42:13,148 - logger - INFO - app启动
+2018-03-09 11:42:17,819 - logger - INFO - 点击听书
+2018-03-09 11:42:17,819 - logger - INFO - 点击听书
+2018-03-09 11:42:17,831 - logger - INFO - 点击听书
+2018-03-09 11:42:17,831 - logger - INFO - 点击听书
+2018-03-09 11:42:19,484 - logger - INFO - 无码：艺术大师的秘密生活1
+2018-03-09 11:42:19,486 - logger - INFO - 无码：艺术大师的秘密生活1
+2018-03-09 11:42:19,484 - logger - INFO - 无码：艺术大师的秘密生活1
+2018-03-09 11:42:19,486 - logger - INFO - 无码：艺术大师的秘密生活1
+2018-03-09 11:42:19,484 - logger - INFO - 无码：艺术大师的秘密生活1
+2018-03-09 11:42:19,486 - logger - INFO - 无码：艺术大师的秘密生活1
+2018-03-09 11:42:43,260 - logger - INFO - 获取title:得到｜无码：艺术大师的秘密生活1
+2018-03-09 11:42:43,260 - logger - INFO - 获取title:得到｜无码：艺术大师的秘密生活1
+2018-03-09 11:42:43,260 - logger - INFO - 获取title:得到｜无码：艺术大师的秘密生活1
+2018-03-09 11:42:43,260 - logger - INFO - 获取title:得到｜无码：艺术大师的秘密生活1
+2018-03-09 11:42:43,260 - logger - INFO - 获取title:得到｜无码：艺术大师的秘密生活1
+2018-03-09 11:42:43,260 - logger - INFO - 获取title:得到｜无码：艺术大师的秘密生活1
+2018-03-09 11:42:43,260 - logger - INFO - 获取title:得到｜无码：艺术大师的秘密生活1
+2018-03-09 11:42:43,260 - logger - INFO - 获取title:得到｜无码：艺术大师的秘密生活1
+2018-03-09 11:50:05,771 - logger - INFO - app启动
+2018-03-09 11:50:06,100 - logger - INFO - app启动
+2018-03-09 11:50:09,695 - logger - INFO - 测试用例执行异常:argument of type 'NoneType' is not iterable
+2018-03-09 11:50:09,695 - logger - INFO - 测试用例执行异常:argument of type 'NoneType' is not iterable
+2018-03-09 11:50:10,393 - logger - INFO - 点击听书
+2018-03-09 11:50:10,393 - logger - INFO - 点击听书
+2018-03-09 11:50:26,967 - logger - INFO - 测试用例执行异常:-32002 Server error: android.support.test.uiautomator.UiObjectNotFoundException <UiSelector[RESOURCE_ID=com.luojilab.player:id/tv_product_name]>
+2018-03-09 11:50:26,967 - logger - INFO - 测试用例执行异常:-32002 Server error: android.support.test.uiautomator.UiObjectNotFoundException <UiSelector[RESOURCE_ID=com.luojilab.player:id/tv_product_name]>
+2018-03-09 11:50:26,967 - logger - INFO - 测试用例执行异常:-32002 Server error: android.support.test.uiautomator.UiObjectNotFoundException <UiSelector[RESOURCE_ID=com.luojilab.player:id/tv_product_name]>
+2018-03-09 11:51:00,789 - logger - INFO - app启动
+2018-03-09 11:51:05,389 - logger - INFO - 点击听书
+2018-03-09 11:51:05,389 - logger - INFO - 点击听书
+2018-03-09 11:51:07,180 - logger - INFO - 无码：艺术大师的秘密生活1
+2018-03-09 11:51:07,180 - logger - INFO - 无码：艺术大师的秘密生活1
+2018-03-09 11:51:07,180 - logger - INFO - 无码：艺术大师的秘密生活1
+2018-03-09 11:51:29,371 - logger - INFO - 获取title:得到｜无码：艺术大师的秘密生活1
+2018-03-09 11:51:29,371 - logger - INFO - 获取title:得到｜无码：艺术大师的秘密生活1
+2018-03-09 11:51:29,371 - logger - INFO - 获取title:得到｜无码：艺术大师的秘密生活1
+2018-03-09 11:51:29,371 - logger - INFO - 获取title:得到｜无码：艺术大师的秘密生活1
+2018-03-09 11:51:29,373 - logger - INFO - 微信h5页面验证分享成功
+2018-03-09 11:51:29,373 - logger - INFO - 微信h5页面验证分享成功
+2018-03-09 11:51:29,373 - logger - INFO - 微信h5页面验证分享成功
+2018-03-09 11:51:29,373 - logger - INFO - 微信h5页面验证分享成功
+2018-03-09 11:51:29,373 - logger - INFO - 微信h5页面验证分享成功
+2019-05-10 17:40:29,564 - logger - INFO - app启动
+2019-05-10 17:40:31,184 - logger - INFO - 测试用例执行异常:-32001 Jsonrpc error: <android.support.test.uiautomator.UiObjectNotFoundException> data: UiSelector[TEXT=随便看看], method: objInfo
+2019-05-10 17:40:31,184 - logger - INFO - 测试用例执行异常:-32001 Jsonrpc error: <android.support.test.uiautomator.UiObjectNotFoundException> data: UiSelector[TEXT=随便看看], method: objInfo
+2019-05-10 17:40:40,052 - logger - INFO - app启动
+2019-05-10 17:40:41,887 - logger - INFO - 测试用例执行异常:-32001 Jsonrpc error: <android.support.test.uiautomator.UiObjectNotFoundException> data: UiSelector[TEXT=随便看看], method: objInfo
+2019-05-10 17:40:41,887 - logger - INFO - 测试用例执行异常:-32001 Jsonrpc error: <android.support.test.uiautomator.UiObjectNotFoundException> data: UiSelector[TEXT=随便看看], method: objInfo
+2019-05-10 17:41:35,381 - logger - INFO - app启动
+2019-05-10 17:41:36,101 - logger - INFO - 点击听书
+2019-05-10 17:41:36,101 - logger - INFO - 点击听书
+2019-05-10 17:41:37,991 - logger - INFO - 测试用例执行异常:-32001 Jsonrpc error: <android.support.test.uiautomator.UiObjectNotFoundException> data: UiSelector[RESOURCE_ID=com.luojilab.player:id/tv_product_name], method: objInfo
+2019-05-10 17:41:37,991 - logger - INFO - 测试用例执行异常:-32001 Jsonrpc error: <android.support.test.uiautomator.UiObjectNotFoundException> data: UiSelector[RESOURCE_ID=com.luojilab.player:id/tv_product_name], method: objInfo
+2019-05-10 17:41:37,991 - logger - INFO - 测试用例执行异常:-32001 Jsonrpc error: <android.support.test.uiautomator.UiObjectNotFoundException> data: UiSelector[RESOURCE_ID=com.luojilab.player:id/tv_product_name], method: objInfo
+2019-05-10 17:42:12,758 - logger - INFO - 启动app失败:atx-agent is not running. Fix it with following steps.
+1. Plugin device into computer.
+2. Run command "python -m uiautomator2 init"
+2019-05-10 17:42:12,759 - logger - INFO - app启动
+2019-05-10 17:42:12,759 - logger - INFO - app启动
+2019-05-10 17:42:12,763 - logger - INFO - 测试用例执行异常:atx-agent is not running. Fix it with following steps.
+1. Plugin device into computer.
+2. Run command "python -m uiautomator2 init"
+2019-05-10 17:42:12,763 - logger - INFO - 测试用例执行异常:atx-agent is not running. Fix it with following steps.
+1. Plugin device into computer.
+2. Run command "python -m uiautomator2 init"
+2019-05-10 17:42:12,763 - logger - INFO - 测试用例执行异常:atx-agent is not running. Fix it with following steps.
+1. Plugin device into computer.
+2. Run command "python -m uiautomator2 init"
+2019-05-10 17:42:12,766 - logger - INFO - 关闭app异常:atx-agent is not running. Fix it with following steps.
+1. Plugin device into computer.
+2. Run command "python -m uiautomator2 init"
+2019-05-10 17:42:12,766 - logger - INFO - 关闭app异常:atx-agent is not running. Fix it with following steps.
+1. Plugin device into computer.
+2. Run command "python -m uiautomator2 init"
+2019-05-10 17:42:12,766 - logger - INFO - 关闭app异常:atx-agent is not running. Fix it with following steps.
+1. Plugin device into computer.
+2. Run command "python -m uiautomator2 init"
+2019-05-10 17:42:12,766 - logger - INFO - 关闭app异常:atx-agent is not running. Fix it with following steps.
+1. Plugin device into computer.
+2. Run command "python -m uiautomator2 init"
+2019-05-10 17:42:32,963 - logger - INFO - 启动app失败:atx-agent is not running. Fix it with following steps.
+1. Plugin device into computer.
+2. Run command "python -m uiautomator2 init"
+2019-05-10 17:42:32,964 - logger - INFO - app启动
+2019-05-10 17:42:32,964 - logger - INFO - app启动
+2019-05-10 17:42:32,968 - logger - INFO - 测试用例执行异常:atx-agent is not running. Fix it with following steps.
+1. Plugin device into computer.
+2. Run command "python -m uiautomator2 init"
+2019-05-10 17:42:32,968 - logger - INFO - 测试用例执行异常:atx-agent is not running. Fix it with following steps.
+1. Plugin device into computer.
+2. Run command "python -m uiautomator2 init"
+2019-05-10 17:42:32,968 - logger - INFO - 测试用例执行异常:atx-agent is not running. Fix it with following steps.
+1. Plugin device into computer.
+2. Run command "python -m uiautomator2 init"
+2019-05-10 17:42:32,972 - logger - INFO - 关闭app异常:atx-agent is not running. Fix it with following steps.
+1. Plugin device into computer.
+2. Run command "python -m uiautomator2 init"
+2019-05-10 17:42:32,972 - logger - INFO - 关闭app异常:atx-agent is not running. Fix it with following steps.
+1. Plugin device into computer.
+2. Run command "python -m uiautomator2 init"
+2019-05-10 17:42:32,972 - logger - INFO - 关闭app异常:atx-agent is not running. Fix it with following steps.
+1. Plugin device into computer.
+2. Run command "python -m uiautomator2 init"
+2019-05-10 17:42:32,972 - logger - INFO - 关闭app异常:atx-agent is not running. Fix it with following steps.
+1. Plugin device into computer.
+2. Run command "python -m uiautomator2 init"

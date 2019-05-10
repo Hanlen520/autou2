@@ -88,6 +88,8 @@ adb push ~/Desktop/autou2/logger.py /storage/emulated/0/qpython
 
 # 定位方式
 
+具体api文档参考:https://github.com/openatx/uiautomator2
+
 ## ResourceId定位
 d(resourceId="com.smartisanos.clock:id/text_stopwatch").click()
 

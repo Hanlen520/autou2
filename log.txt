@@ -187,3 +187,39 @@
 2019-05-10 17:42:32,972 - logger - INFO - 关闭app异常:atx-agent is not running. Fix it with following steps.
 1. Plugin device into computer.
 2. Run command "python -m uiautomator2 init"
+2019-05-10 18:51:25,410 - logger - INFO - 启动app失败:atx-agent is not running. Fix it with following steps.
+1. Plugin device into computer.
+2. Run command "python -m uiautomator2 init"
+2019-05-10 18:51:25,411 - logger - INFO - app启动
+2019-05-10 18:51:25,411 - logger - INFO - app启动
+2019-05-10 18:51:25,414 - logger - INFO - 测试用例执行异常:atx-agent is not running. Fix it with following steps.
+1. Plugin device into computer.
+2. Run command "python -m uiautomator2 init"
+2019-05-10 18:51:25,414 - logger - INFO - 测试用例执行异常:atx-agent is not running. Fix it with following steps.
+1. Plugin device into computer.
+2. Run command "python -m uiautomator2 init"
+2019-05-10 18:51:25,414 - logger - INFO - 测试用例执行异常:atx-agent is not running. Fix it with following steps.
+1. Plugin device into computer.
+2. Run command "python -m uiautomator2 init"
+2019-05-10 18:51:25,418 - logger - INFO - 关闭app异常:atx-agent is not running. Fix it with following steps.
+1. Plugin device into computer.
+2. Run command "python -m uiautomator2 init"
+2019-05-10 18:51:25,418 - logger - INFO - 关闭app异常:atx-agent is not running. Fix it with following steps.
+1. Plugin device into computer.
+2. Run command "python -m uiautomator2 init"
+2019-05-10 18:51:25,418 - logger - INFO - 关闭app异常:atx-agent is not running. Fix it with following steps.
+1. Plugin device into computer.
+2. Run command "python -m uiautomator2 init"
+2019-05-10 18:51:25,418 - logger - INFO - 关闭app异常:atx-agent is not running. Fix it with following steps.
+1. Plugin device into computer.
+2. Run command "python -m uiautomator2 init"
+2019-05-10 18:51:38,325 - logger - INFO - app启动
+2019-05-10 18:55:59,564 - logger - INFO - app启动
+2019-05-10 18:58:13,522 - logger - INFO - app启动
+2019-05-10 18:58:13,593 - logger - INFO - 测试用例执行异常:random() takes no arguments (2 given)
+2019-05-10 18:58:13,593 - logger - INFO - 测试用例执行异常:random() takes no arguments (2 given)
+2019-05-10 18:59:00,733 - logger - INFO - app启动
+2019-05-10 19:00:06,027 - logger - INFO - app启动
+2019-05-10 19:00:06,137 - logger - INFO - 测试用例执行异常:global name 'x' is not defined
+2019-05-10 19:00:06,137 - logger - INFO - 测试用例执行异常:global name 'x' is not defined
+2019-05-10 19:00:39,792 - logger - INFO - app启动
